@@ -53,13 +53,5 @@
     "spinnies": "^0.5.1",
     "sharp": "^0.29.3",
     "util": "^0.12.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NeKosmic/Quantum-Bot.git"
-  },
-  "bugs": {
-    "url": "https://github.com/NeKosmic/Quantum-Bot/issues"
-  },
-  "homepage": "https://github.com/NeKosmic/Quantum-Bot#readme"
+  }
 }
